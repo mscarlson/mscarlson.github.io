@@ -1,0 +1,138 @@
+body {
+    font-family: 'PT Sans',sans-serif;
+    color: #C83636;
+    background: rgba(200,54,54,0.1);
+}
+
+.container {
+    position: relative;
+    top: 40px;
+}
+
+#headline {
+    font-size: 32px;
+    color: #C83636;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 60px 0 0;
+}
+
+.head-line {
+    padding: 0 0 20px;
+    margin-bottom: 20px;
+    border-bottom: 20px solid #C83636;
+}
+
+#contact {
+    font: 26px 'PT Sans',sans-serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+    padding: 0 0 60px;
+    line-height: 1.5;
+}
+
+#objective {
+}
+
+#objective-title {
+    margin-top: 40px;
+}
+
+#education-title {
+    margin-top: 60px;
+}
+
+#education {
+    margin-top: 20px;
+}
+
+#experience {
+    margin-top: 60px;
+}
+
+#loafnest {
+    margin-top: 20px;
+}
+
+#studioonfire {
+    margin-top: 20px;
+}
+
+#johnroberts {
+    margin-top: 20px;
+}
+
+#proficiencies {
+    margin-top: 60px;
+}
+
+#proficiencies-lists {
+    margin-top: 20px;
+}
+
+#references {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.heading {
+    font-size: 32px;
+    color: #C83636;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.heading-underline {
+    font-size: 32px;
+    color: #C83636;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+#heading {
+    font-size: 32px;
+    color: #C83636;
+    font-weight: 700;
+}
+
+.heading h1,h2 {
+    display: inline;
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font: 20px 'PT Sans',sans-serif;
+}
+
+h1 {
+    font: 20px 'PT Sans',sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 120%;
+}
+
+h2 {
+    font: 26px 'PT Sans',sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font: 20px 'PT Sans',sans-serif;
+}
+
+h4 {
+    font: 20px 'PT Sans',sans-serif;
+    line-height: 120%;
+}
+
+.dates {
+    position: relative;
+    top: -8px;
+}
+
+a,a:hover {
+    color: #C83636;
+}
