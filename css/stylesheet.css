@@ -73,7 +73,7 @@ p {
 }
 
 article {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 h2,
@@ -95,7 +95,7 @@ header h1 {
   line-height: 1.5;
 }
 
-header p {
+header {
   font: 26px 'PT Sans', sans-serif;
   font-weight: 700;
   letter-spacing: 2px;
@@ -104,13 +104,12 @@ header p {
   margin: 0 0 20px 0;
 }
 
-address {
+address h1{
   font: 24px 'PT Sans', sans-serif;
   font-weight: 400;
   letter-spacing: 2px;
   padding: 0 0 0;
-  line-height: 1.5;
-  margin: 0 0 20px 0;
+  margin: 0 0 0 0;
 }
 
 a {
